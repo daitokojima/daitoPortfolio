@@ -16,7 +16,7 @@ export const metadata = {
   title: "Daito Kojima",
   description: "Welcome to my portfolio site",
   icons: {
-    icon: '/favicon.png',
+    icon: "/assets/favicon.png",
   },
 };
 
