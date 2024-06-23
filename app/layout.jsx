@@ -15,6 +15,9 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata = {
   title: "Daito Kojima",
   description: "Welcome to my portfolio site",
+  icons: {
+    icon: '/favicon.png',
+  },
 };
 
 export default function RootLayout({ children }) {

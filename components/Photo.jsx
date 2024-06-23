@@ -26,13 +26,6 @@ const Photo = () => {
                             fill
                             alt="" className="object-contain"
                         />
-                        <Image
-                            src="/assets/dk.svg"
-                            priority
-                            quality={100}
-                            fill
-                            alt="" className="object-contain"
-                        />
                     </div>
                 </motion.div>
 
