@@ -28,7 +28,7 @@ const projects = [
         category: "frontend",
         title: "Corporate Landing Page",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In felis nunc, sagittis ac sollicitudin.",
-        stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Javascript" }, { name: "React" }],
+        stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "React" }],
         image: "/assets/lp-subsidy.png",
         live: "https://salto.site/lp/subsidy",
         github: "",
